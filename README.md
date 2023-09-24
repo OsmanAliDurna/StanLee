@@ -2,6 +2,8 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
+  You can see the result via the link. https://s3co.github.io/OsmanAliDurna/StanLee/blob/main/solution/index.html
+
 # Code Challenge - 01 :Stanlee Web Page (HC-CC-01)
 
 ## Description
