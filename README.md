@@ -1,6 +1,6 @@
 # Stan-Lee-Basic-Css-Project
 
-  You can see the result via the link. https://osmanalidurna.github.io//StanLee/solution/
+  You can see the result via the link. https://osmanalidurna.github.io/StanLee/solution/
 
 # Code Challenge - 01 :Stanlee Web Page (HC-CC-01)
 
